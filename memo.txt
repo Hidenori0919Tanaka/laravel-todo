@@ -1,0 +1,13 @@
+https://qiita.com/s_harada/items/39cfbd64a6df4f2ccf5d
+
+https://chigusa-web.com/blog/laravel-bootstrap/
+
+コントローラー
+画面
+seeder
+デバッグ
+ログイン
+外部キー
+デバッグ
+seeder
+単体テスト
